@@ -4,7 +4,7 @@
 - 🔭 I am studying Software Engineering at Vietnam National University of Agriculture
 - 🥅 2021 Goals: Working on more DS Projects
 - ⚡ Fun fact: I work in Singapore but travel to Vietnam every two week before Covid 😅
-[info]: https://www.facebook.com/CaoHungdz/
+  [info]: https://www.facebook.com/CaoHungdz/
 
 
 ### Languages and Tools:
