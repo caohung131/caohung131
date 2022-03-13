@@ -1,7 +1,7 @@
-### Hi, I'm Cao Khánh Hưng <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka Cao Khánh Hưng [website] = Software Engineer + Youtuber 🌱 
+### Hi, I'm Cao Khánh Hưng <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka Cao Khánh Hưng = Software Engineer 🌱 
 
 
-- 🔭 I'm passionate about Machine Learning and Data Engineering
+- 🔭 I am studying Software Engineering at Vietnam National University of Agriculture
 - 🥅 2021 Goals: Working on more DS Projects
 - ⚡ Fun fact: I work in Singapore but travel to Vietnam every two week before Covid 😅
 
@@ -33,18 +33,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Hướng Dẫn Làm Data Visualisation Project với Seaborn và Python](https://www.youtube.com/watch?v=MhVXgurOwIw)
-- [Hướng Dẫn Lập Trình 6 Dự Án Python Cơ Bản Trong 1 Video Duy Nhất](https://www.youtube.com/watch?v=HWUsravMGLI)
-- [Hướng Dẫn Train Mô Hình Machine Learning Cho Người Mới Bắt Đầu](https://www.youtube.com/watch?v=wujyckteVYM)
-- [Giải LeetCode #75 - Sort Color | Thuật Toán Dutch National Flag Problem](https://www.youtube.com/watch?v=rB4r6OgQsZ0)
-- [Lập Trình Game Flappy Bird với Python Cho Người Mới Bắt Đầu](https://www.youtube.com/watch?v=mFbdfXWmLU8)
-<!-- YOUTUBE:END -->
 
 ---
 
