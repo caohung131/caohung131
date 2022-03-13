@@ -4,18 +4,8 @@
 - 🔭 I am studying Software Engineering at Vietnam National University of Agriculture
 - 🥅 2021 Goals: Working on more DS Projects
 - ⚡ Fun fact: I work in Singapore but travel to Vietnam every two week before Covid 😅
+[info]: https://www.facebook.com/CaoHungdz/
 
-### :zap: GitHub Stats
-
-<table>
-<tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodexploreRepo&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexploreRepo&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
-</tr>
-<table>
 
 ### Languages and Tools:
 
@@ -40,4 +30,4 @@
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/quanngha/)
 
-[website]: https://www.youtube.com/channel/UCN03cDDMfrD6Iyxk20_dvmQ
+
