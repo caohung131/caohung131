@@ -2,9 +2,10 @@
 
 
 - 🔭 I am studying Software Engineering at Vietnam National University of Agriculture
-- 🥅 2021 Goals: Working on more DS Projects
-- ⚡ Fun fact: I work in Singapore but travel to Vietnam every two week before Covid 😅
-  [info]: https://www.facebook.com/CaoHungdz/
+- 🥅 2021 Goals: Working on more Projects
+- ⚡ Fun fact: I'm in my third year at the school and am really looking forward to the opportunity to develop myself 😅
+ <br>
+-[info]: https://www.facebook.com/CaoHungdz/
 
 
 ### Languages and Tools:
@@ -27,7 +28,5 @@
 ---
 
 ### 📫 Contact me via:
-
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/quanngha/)
 
 
